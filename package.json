@@ -1,0 +1,7 @@
+{
+  "type": "application",
+  "name": "cxxpm-package-test-1",
+  "src": "./src",
+  "include": "./src",
+  "dependencies": []
+}
