@@ -3,13 +3,5 @@
   "name": "cxxpm-package-test-1",
   "src": "./src",
   "include": "./src",
-  "dependencies": [
-    {
-      "host": "github.com",
-      "name": "GetProcAddressEx",
-      "user": "Mac-A-4",
-      "branch": "main",
-      "hash": "360cb4b"
-    }
-  ]
+  "dependencies": []
 }
