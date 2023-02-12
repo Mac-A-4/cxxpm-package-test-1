@@ -1,7 +1,7 @@
 {
   "type": "library",
   "name": "cxxpm-package-test-1",
-  "src": "./src",
-  "include": "./src",
+  "src": "src",
+  "include": "src",
   "dependencies": []
 }
