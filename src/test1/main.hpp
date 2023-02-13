@@ -2,6 +2,6 @@
 
 namespace test1 {
 
-  int getValue(); //hi!
+  int getValue(); //hi! and bye :(
 
 }
